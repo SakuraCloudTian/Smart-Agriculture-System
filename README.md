@@ -81,7 +81,7 @@ Traditional farming management faces several challenges:
 | Role | Member | Main Contributions |
 |------|---------|--------------------|
 | **Team Leader** | **Yin Kun** | Project management, database & model design, data preprocessing, algorithm development |
-| **Backend Developer** |**Yin Kun**, **Hou Wenqian** | API development, data interface design, user & device management, news system |
+| **Backend Developer** |**Yin Kun**, **Hou Wenqian**,**Han Shuo** | API development, data interface design, user & device management, news system |
 | **Hardware Engineers** | **Yin Kun**, **Lai Sidi** | Sensor integration, MQTT data collection, auto control logic, weather API |
 | **Frontend Developers** | **Yin Kang**, **Ye Jiaqi**, **Zhang Jie** | Web and mobile UI/UX design, visualization dashboard, expert advice pages |
 
@@ -132,7 +132,7 @@ All rights reserved © 2025 **Farmland Guardian Team**.
 ---
 
 ### 🌟 Contributors  
-**Han Shuo**, **Hou Wenqian**, **Lai Sidi**, **Yin Kun**, **Yin Kang**, **Ye Jiaqi**, **Zhang Jie**
+**Yin Kun**,**Han Shuo**, **Hou Wenqian**, **Lai Sidi**,  **Yin Kang**, **Ye Jiaqi**, **Zhang Jie**
 
 ---
 
