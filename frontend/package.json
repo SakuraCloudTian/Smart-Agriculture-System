@@ -1,0 +1,36 @@
+{
+  "name": "vue-manage-system",
+  "version": "4.2.0",
+  "private": true,
+ "scripts": {
+   "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+   "serve": "SET NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+   "lint": "eslint --ext .js,.vue src",
+   "build:prod": "SET NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+   "build:stage": "vue-cli-service build --mode staging",
+   "preview": "node build/index.js --preview",
+   "new": "plop",
+   "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml",
+   "test:unit": "jest --clearCache && vue-cli-service test:unit",
+   "test:ci": "npm run lint && npm run test:unit"
+ },
+ "dependencies": {
+   "axios": "^1.4.0",
+   "babel-polyfill": "^6.26.0",
+   "echarts": "^5.4.2",
+   "element-ui": "^2.11.0",
+   "mavon-editor": "^2.6.17",
+   "vue": "^2.6.10",
+   "vue-cropperjs": "^3.0.0",
+   "vue-i18n": "^8.10.0",
+   "vue-quill-editor": "^3.0.6",
+   "vue-router": "^3.0.3",
+   "vue-schart": "^2.0.0",
+   "vuedraggable": "^2.17.0"
+ },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
