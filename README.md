@@ -1,6 +1,6 @@
-# 🌾 Farmland Guardian  
-**Intelligent Agricultural Environment Management System** ——2023/07
+# 🌾 Intelligent Agricultural Environment Management System——2023/07
 
+**Farmland Guardian** 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Backend-Flask-orange.svg)](https://flask.palletsprojects.com/)
 [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js-brightgreen.svg)](https://vuejs.org/)
