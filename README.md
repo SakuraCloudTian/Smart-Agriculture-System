@@ -80,8 +80,8 @@ Traditional farming management faces several challenges:
 
 | Role | Member | Main Contributions |
 |------|---------|--------------------|
-| **Team Leader** | **Han Shuo** | Project management, database & model design, data preprocessing, algorithm development |
-| **Backend Developer** | **Hou Wenqian** | API development, data interface design, user & device management, news system |
+| **Team Leader** | **Yin Kun** | Project management, database & model design, data preprocessing, algorithm development |
+| **Backend Developer** |**Yin Kun**, **Hou Wenqian** | API development, data interface design, user & device management, news system |
 | **Hardware Engineers** | **Yin Kun**, **Lai Sidi** | Sensor integration, MQTT data collection, auto control logic, weather API |
 | **Frontend Developers** | **Yin Kang**, **Ye Jiaqi**, **Zhang Jie** | Web and mobile UI/UX design, visualization dashboard, expert advice pages |
 
